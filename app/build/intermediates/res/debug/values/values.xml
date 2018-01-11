@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Manuel/Documents/Programming%20Android%20COURSERA/Anho_2/PeerAssignment/DailySelfie/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="action_take_pic">Camera</string>
+    <string name="album_name">DailySelfieApp</string>
+    <string name="app_name">Daily Selfie</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="timestamp">Hora Creación</string>
+    <string name="title_activity_photo_preview">Preview Photos</string>
+
+</resources>

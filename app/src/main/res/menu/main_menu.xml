@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity_main" >
+    <item android:id="@+id/action_take_picture"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/action_take_pic"
+        android:showAsAction="ifRoom" />
+</menu>

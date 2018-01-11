@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\GitHub\\Coursera android\\Anho_2\\PeerAssignment\\DailySelfie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\GitHub\\Coursera android\\Anho_2\\PeerAssignment\\DailySelfie\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,10,8,3,4,5,6,7,2,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "436,489,382,123,173,230,290,340,55,540,592",
+                        "endColumns": "52,50,53,49,56,59,49,41,67,51,71",
+                        "endOffsets": "484,535,431,168,225,285,335,377,118,587,659"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,159,213,263,320,380,430,472,540,592",
+                        "endColumns": "52,50,53,49,56,59,49,41,67,51,71",
+                        "endOffsets": "103,154,208,258,315,375,425,467,535,587,659"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jan 11 07:32:07 PYST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\GitHub\\Coursera android\\Anho_2\\PeerAssignment\\DailySelfie\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
